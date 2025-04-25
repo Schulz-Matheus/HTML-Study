@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+<html lang="en-US">
+    <head> 
+        <meta charset="UTF-8">
+        
+        <title>Metadata</title>
+        
+        <meta name="author" content="Matheus Schulz">
+        <!--Logo acima eu especifico um autor da página, isso é útil para as pessoas te acharem depois, caso necessario.-->
+        
+        <meta name="description" content="This page is intendend to be a test on the study of metadata in HTML.">
+        <!--Logo acima eu coloco uma descriçaõ da página web, essa descrição ira aparecer nos mecanismos de busca.-->
+        
+        <link rel="icon" href="/HTML/img/terror-assustador.png" type="image/png">
+        <!--Estou adicionando um elemento externo, por isso uso o link, com o rel="" eu defino o que é, com href="" define o caminho para o icone e com o type="" informo o tipo do arquivo.-->
+        
+        <link rel="stylesheet" href="style.css"> <!--rel="" vem de relationship, ou seja, a relação entre o seu arquivo e link externo--> <!--href="" diz respeito a hypertext reference, ou seja, informa o caminho que deve percorer para achar o arquivo.-->
+        
+        <script src="script.js" defer></script> <!--src="" vem de source, ou seja, fonte do script--> <!--defer faz com que o JS comese a agir apenas quando o HTML terminar de carregar, evitando erros-->
+        
+    </head>
+    <body>
+
+    </body>
+</html>
