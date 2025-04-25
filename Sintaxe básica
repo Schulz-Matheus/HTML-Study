@@ -1,0 +1,15 @@
+<!DOCTYPE html> <!--Usado para que o html funcione de maneira adequada-->
+<html lang="pr-BR"> <!--Abre o HTML e define a linguagem da página-->
+    <head> <!--Abre o cabeçalho da página, é onde vão todas as meta informações-->
+        <meta charset="UTF-8"> <!--Define a meta informação de quais caracteres a página pode usar-->
+        <title>Minha primeira página web</title> <Define um título para a aba do navegador-->
+    </head> 
+    <body> <!--Abre o corpo do documento, é onde todo o conteúdo irá-->
+        <h1>Meu primeiro título</h1> <!--Define um titulo para a página, vai de h1 (maior) até h6 (menor)-->
+        <p>Meu primeiro paragráfo</p> <!--Define um paragráfo-->
+        <input type="text"/> <!--Coloca um retangulo que possibilita escrever dentro-->
+        <input type="text" disabled /> <!--Coloca o retangulo e o disativa-->
+        <img src="/HTML/img/fotoFogos.jpg" alt="Foto de fogos de artificio azuis estourando no céu." width="300" height="200"> <!--Coloquei uma imagem e a modifiquei com atributos-->
+        <a href="instagram.com/_mrgarciaa_" title="Instagram do meu mano Misael">Instagram</a> <!--Usado para colocar um link direcional-->
+        </body>
+</html>
