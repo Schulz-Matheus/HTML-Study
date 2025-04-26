@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Este é um titulo em h1</h1>
+    <h2>Este é um titulo em h2</h2>
+    <h3>Este é um titulo em h3</h3>
+    <h4>Este é um titulo em h4</h4>
+    <h5>Este é um titulo em h5</h5>
+    <h6>Este é um titulo em h6</h6>
+    <p>Este é um paragráfo</p>
+    Este também é um paragráfo, mas não correto.
+
+    <!--Lembre-se sempre de usar uma estrutura semantica correta, ou seja, deixar o documento estruturado de forma a utilizar corretamente o valor que as tags expressão. Por exemplo, não use h1 sempre que quiser colocar titulos grandes, isso você faz com o CSS.-->
+    
+    <!--Utilize <span> para estilizar os conteúdos HTML com CSS, pois essa tag não tem valor semantico algum-->
+</body>
+</html>
