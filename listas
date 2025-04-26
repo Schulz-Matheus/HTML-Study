@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Ovo</li>
+        <li>Leite</li>
+        <li>Açúcar</li>
+        <li>Feijão</li>
+    </ul>
+    <ol>
+        <li>Pegue a faca na pia</li>
+        <li>Taque ela no monstro</li>
+        <li>Corra</li>
+    </ol>
+    
+    <h1>Receita rápida de homus</h1>
+
+    <p>Esta receita faz um homus rápido e saboroso, sem complicação. Foi adaptada de várias receitas diferentes que li ao longo dos anos.</p>
+    
+    <p>O homus é uma pasta espessa e deliciosa muito usada na culinária grega e do Oriente Médio. É muito gostoso com salada, carnes grelhadas e pães pita.</p>
+    
+    <h2>Ingredientes</h2>
+    <ul>
+    <li>1 lata (400g) de grão-de-bico</li>
+    <li>175g de tahine</li>
+    <li>6 tomates secos</li>
+    <li>Meio pimentão vermelho</li>
+    <li>Uma pitada de pimenta caiena</li>
+    <li>1 dente de alho</li>
+    <li>Um fio de azeite de oliva</li>
+    </ul>
+
+    <!--Acima temos um lista não ordenada <ul> (unordered list)-->
+    
+    <h2>Instruções</h2>
+    <ol>
+    <li>Retire a casca do alho e pique grosseiramente.</li>
+    <li>Retire todas as sementes e o talo do pimentão e pique grosseiramente.</li>
+    <li>Adicione todos os ingredientes em um processador de alimentos.</li>
+    <li>Processe tudo até virar uma pasta.</li>
+      <ul>
+    <li>Se quiser um homus mais pedaçudo, processe por menos tempo.</li>
+    <li>Se quiser um homus mais liso, processe por mais tempo.</li>
+      </ul>
+    </ol>
+    
+    <p>Para mudar o sabor, você pode misturar um pouco de limão com coentro, pimenta chili, limão com chipotle, harissa com hortelã ou espinafre com queijo feta. Experimente e veja o que você gosta.</p>
+
+    <!--Acima uma lista ordenada <ol> (orderad list), com o aninhamento de uma lista não ordenada, sim, isso é possivel.-->
+    
+    <h2>Armazenamento</h2>
+    
+    <p>Refrigere o homus pronto em um recipiente fechado. Você pode usá-lo por cerca de uma semana depois de feito. Se ele começar a ficar efervescente, descarte.
+    O homus pode ser congelado; depois de descongelado, use em até alguns meses.</p>
+
+
+<dl>
+    <dt>Bacon</dt>
+    <dd>A cola que mantém o mundo unido.</dd>
+
+    <dt>Ovos</dt>
+    <dd>A cola que mantém o bolo unido.</dd>
+
+    <dt>Café</dt>
+    <dd>A bebida que faz o mundo funcionar de manhã.</dd>
+    <dd>Uma cor marrom-claro.</dd>
+</dl>
+
+<!--Acima uma lista de descrição, usada para descrever os iteins em uma lista.
+    Usa <dl> (descrepition list), <dt> (term definition) e <dd> (descrepition definition)-->
+
+</body>
+</html>
