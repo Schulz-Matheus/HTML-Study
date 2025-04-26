@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p><i>Eu</i> tenho um gato <em>malhado</em></p>
+    <!--As duas tags acima mudaram o texto para italico, contudo elas tem uma diferença na enfase da palavra. Equando o <i> muda apenas a forma como o texto é mostrado visualmente, o <em> (emphasis) faz um destaque verbal, muito importante para leitores de tela-->
+        <!--Utilize o <em> sempre que quiser dar um destaque ou diferenciação verbal. E utileze o <i> apenas para nomes cientificos, nomes de livros ou pessoas importantes...-->
+
+
+    <h1>Important notice</h1>
+    <p>No domingo, <em>9 de janeiro de 2010</em>, uma <storn>gangue de góticos</storn> foi <stron>flagrada roubando</stron> vários gnomos de jardim de um
+        shopping center no <em>centro de Milwaukee</em>. Eles estavam
+        todos usando macacões verdes e chapéus engraçados, e
+        pareciam estar se divertindo muito. Se alguém
+        tiver alguma <storng>informação</storng> sobre este incidente, <em>por favor
+        entre em contato com a polícia</em> agora.</p>
+     
+    <!--Basicamente o que o HTML faz é dar extrutura a página web e o CSS vem como um complemento para dar estilização, contudo, é muito comum que eroneamente façamos uso de tags que não tem um sentido semantico, mas sim, apenas, visual.-->
+
+    <!--Deve prestar atenção para esse mal habito, pois foge do inutuito do HTML e é ruim para a acessibilidade na web-->
+
+    <!--
+     <i> Faz um texto em italico: normalmente usado para nomes cientificos, termos tecnicos, palavras estrangeiras ou pensamentos, entre outros;
+    
+    <b> Faz um texto em negrito: normalmente usado para palavras iniciais, termos importantes ou palavras-chave;
+
+    <u> Faz um linha embaixo da palavra: Utilizado em palavras incorretas, links e nomes próprios;
+    -->
+       <!--Essas tags acima são usadas apenas para mudar a aparencia do texto e não seu significado semantico, tente não usalas-->
+
+       <!--Pode-se, em alguns casos usar esse termos e usar certos atributos para dar o significado semantico.-->
+
+
+    <!--
+      <em> Normalmente faz um texto em italico e traz um valor semantico de italico;
+
+      <strong> Normalemente faz um texto em negrito e traz um valor semantico de negrito;
+
+      <mark> Normalmente faz um texto em enfase pintado de amarelo, traz também significado de enfase semantica.
+    -->
+        <!--Essas tag logo acima trazes o significado que o autor do texto deseja, mas de maneira semantica, possibilitando uma melhos acessibilidade.-->
+
+        <!--De prioridade a essas tags e use atributos CSS para das estilização visual.-->
+
+</body>
+</html>
